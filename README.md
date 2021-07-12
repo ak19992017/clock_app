@@ -1,5 +1,6 @@
 # clock_app
 
+Demo link : https://clock_app.codemagic.app
 A new Flutter project.
 
 ## Getting Started
