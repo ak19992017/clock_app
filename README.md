@@ -3,6 +3,7 @@
 Demo link : https://clock_app.codemagic.app
 <br/>
 Tutorial Link : https://itnext.io/create-a-stopwatch-app-with-flutter-f0dc6a176b8a
+<br/>
 A new Flutter project.
 
 ## Getting Started
